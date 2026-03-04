@@ -1,17 +1,18 @@
 ## 📝 Description
 **What changed?**
-- [Briefly describe the changes here]
+- Added a standard PR template in `.github/pull_request_template.md`.
+- Created a self-review checklist in `docs/pr-checklist.md`.
+- Updated the `README.md` with a "How to run" section.
 
-**Why is this change required?**
-- [Explain the problem or feature]
+**Why?**
+- To improve PR hygiene and follow the team's best practices.
 
 ## 🧪 How to test
-1. Activate venv: `source .venv/bin/activate` or `.\.venv\Scripts\activate`
-2. Run the application
-3. Verify the output matches expectations
+1. Verify all new files exist in the dedicated branch.
+2. Check that the README contains the phrase "How to run".
 
 ## ✅ Checklist
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code where necessary
-- [ ] My changes generate no new warnings
+- [ ] My PR title and description are clear and concise.
+- [ ] I have followed the self-review checklist in `docs/`.
+
+"This pull request template is designed to ensure that all contributions meet the required quality standards and documentation hygiene for the LevelUp Applied AI project."

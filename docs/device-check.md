@@ -10,12 +10,12 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 Home) |
+| Operating System | ( Windows 11 Home) |
 | OS Build / Version | 10.0.26100 Build 26100 |
-| RAM | (e.g., 8 GB) |
-| CPU Model | (e.g., Intel(R) core(TM) i5-10300H |
+| RAM | ( 8 GB) |
+| CPU Model | ( Intel(R) core(TM) i5-10300H |
 | CPU Cores |4 Cores |
-| Free Disk Space | (e.g., 100 GB free) |
+| Free Disk Space | ( 100 GB free) |
 | Internet Speed (Download) | (65 Mbps) |
 
 ---

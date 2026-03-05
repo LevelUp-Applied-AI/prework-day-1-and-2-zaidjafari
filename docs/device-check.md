@@ -15,7 +15,7 @@
 | RAM | ( 8 GB) |
 | CPU Model | ( Intel(R) core(TM) i5-10300H |
 | CPU Cores |4 Cores |
-| Free Disk Space | ( 100 GB free) |
+| Free Disk Space | ( 45 GB free) |
 | Internet Speed (Download) | (65 Mbps) |
 
 ---
